@@ -1,4 +1,5 @@
 #Basic string to match.
+#Python implementation.
 
 import re
 teststring = str(input())
